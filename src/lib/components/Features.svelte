@@ -4,11 +4,11 @@
 <section class="bg-[#f0efeb] py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <div class="mb-24">
-      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Your main home might get jealous</h2>
+      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Training that makes a difference</h2>
       <div class="h-[600px] rounded-2xl overflow-hidden relative">
         <img 
-          src="https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=2070&auto=format&fit=crop" 
-          alt="Main home jealous" 
+          src="/generated/image-young-male-instructor-teaching-cpr-to-sm-1765836008754-1.webp" 
+          alt="Professional training" 
           class="w-full h-full object-cover"
         />
       </div>
@@ -19,14 +19,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2070&auto=format&fit=crop" 
-            alt="Living room" 
+            src="/generated/image-diverse-group-of-employees-practicing-ae-1765836011316-2.webp" 
+            alt="Hands-on practice" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Designed to live big.</h3>
+        <h3 class="text-xl font-normal mb-2">Hands-on, scenario-based learning.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Despite its small footprint, Backyard feels like a full-sized home, thanks to airy cathedral ceilings, well-proportioned layouts, and never built-in storage.
+          Every participant gets extensive practice time with professional-grade manikins and AED trainers. We tailor scenarios to your specific workplace environment.
         </p>
       </div>
 
@@ -34,14 +34,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=2068&auto=format&fit=crop" 
-            alt="Kitchen" 
+            src="/generated/image-close-up-of-hands-performing-cpr-on-trai-1765836013717-3.webp" 
+            alt="Proper technique" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Kitchens worth cooking in.</h3>
+        <h3 class="text-xl font-normal mb-2">Proper technique, real confidence.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Premium, fully electric, and impeccably beautiful. The induction cooktop boils water in seconds. An integrated dishwasher cleans up in silence.
+          We ensure every participant masters correct hand placement, compression depth, and rescue breathing. Small class sizes mean personalized attention and feedback.
         </p>
       </div>
     </div>

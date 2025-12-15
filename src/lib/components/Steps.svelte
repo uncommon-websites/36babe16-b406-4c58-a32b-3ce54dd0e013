@@ -2,35 +2,35 @@
   const steps = [
     {
       num: "01",
-      title: "Design yours",
-      desc: "Take your pick with layouts and customizations that reflect your style and needs.",
-      img: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
+      title: "Contact us",
+      desc: "Reach out to discuss your training needs, group size, and preferred dates. We'll find a time that works.",
+      img: "/generated/image-instructor-consulting-with-hr-manager-in-1765836025747-8.webp"
     },
     {
       num: "02",
-      title: "Sign off",
-      desc: "We visit your site to create a complete proposal for the work required to install Backyard.",
-      img: "https://images.unsplash.com/photo-1599619351208-3e6c839d6828?q=80&w=2072&auto=format&fit=crop"
+      title: "Choose your course",
+      desc: "Select from American Red Cross, American Heart Association, or HSI certifications based on your requirements.",
+      img: "/generated/image-american-red-cross-and-american-heart-as-1765836030506-10.webp"
     },
     {
       num: "03",
-      title: "Sit back",
-      desc: "We secure permitting, permits, manufacture your ADU, and prep your site. You get to relax.",
-      img: "https://images.unsplash.com/photo-1581094794329-cd8119608f84?q=80&w=2070&auto=format&fit=crop"
+      title: "We come to you",
+      desc: "On training day, we arrive with all equipment—manikins, AED trainers, and materials. You provide the space.",
+      img: "/generated/image-small-business-team-practicing-cpr-in-th-1765836028071-9.webp"
     },
     {
       num: "04",
-      title: "Get your keys",
-      desc: "After as few as eight weeks on site, we'll deliver Backyard to your life. Your life is now ready for use.",
-      img: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1973&auto=format&fit=crop"
+      title: "Get certified",
+      desc: "After hands-on training and skills testing, your team receives valid 2-year certifications on the same day.",
+      img: "/generated/image-business-team-receiving-certification-ca-1765836023363-7.webp"
     }
   ];
 </script>
 
-<section class="bg-white py-24 px-6">
+<section id="how-it-works" class="bg-white py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <h2 class="text-[40px] leading-tight font-light text-gray-900 mb-16 max-w-[600px]">
-      Get Backyard in four simple steps. And as few as eight weeks on site.
+      Get your team certified in four simple steps. Training completed in one day.
     </h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
@@ -50,16 +50,16 @@
 
     <div class="bg-[#f9f9f7] rounded-2xl p-12 flex flex-col md:flex-row items-center justify-between gap-8">
       <div>
-        <h3 class="text-2xl font-light mb-2">Want the details?</h3>
-        <p class="text-gray-500 text-sm">Learn more about our fast, easy installation process.</p>
+        <h3 class="text-2xl font-light mb-2">Ready to get started?</h3>
+        <p class="text-gray-500 text-sm">Contact us for pricing and availability in Vancouver, WA or San Luis Obispo, CA.</p>
       </div>
       <div class="flex gap-4">
         <button class="px-6 py-3 bg-white border border-gray-200 hover:bg-gray-50 rounded-lg text-sm font-medium transition-colors">
-          How it works
+          View all courses
         </button>
-        <button class="px-6 py-3 bg-[#007aff] hover:bg-[#0062cc] text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-          Download brochure
+        <button class="px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+          Contact us
         </button>
       </div>
     </div>
